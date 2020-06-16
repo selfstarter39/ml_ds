@@ -3,4 +3,6 @@
 * I have provided solution to each one, but do expect alternative solutions to keep the notebook growing.
 * Please feel free to use/copy code as needed. 
 
+`This is a work in progress. More to come :)`
+
 **Note:** Every piece of code is free in my git repo. Let's be good to each other.
